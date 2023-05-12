@@ -1,6 +1,11 @@
 <h1 align="center"> ServidorPI </h1>
 
-
+* Raspberry
+* Apache
+* Html
+* php
+* Mysql
+* Mariadb
 
 **Atualizando pacotes**
 ```
